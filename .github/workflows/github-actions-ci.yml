@@ -6,7 +6,7 @@ on:
     branches: [ "master" ]
 
 jobs:
-  deployment:
+  deploy2:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout code
