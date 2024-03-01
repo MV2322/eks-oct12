@@ -28,7 +28,7 @@ spec:
     spec:
       containers:
         - name: hello
-          image: 108759921242.dkr.ecr.eu-north-1.amazonaws.com/eks-repo:1.1
+          image: 471112939139.dkr.ecr.us-east-2.amazonaws.com/march01:1.1
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
